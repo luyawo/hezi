@@ -1,0 +1,7 @@
+{UPDATE:[VERSION:1:END]
+
+[CHANGELOG:新增：修复内核错误BUG不能全屏，全新替换X5内核。修复：官方论坛无法打开。:END]
+
+[DOWNLOADURL:https://github.com/luyawo/hezi/raw/master/luyawo.apk  :END]
+
+[USEVERSIONNAME:FLASE:END]:END}
